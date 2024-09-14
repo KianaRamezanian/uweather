@@ -19,7 +19,7 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 <img src="IMG_8837.png" />
 <br/>
-Best regards.
+
 <br/>
 
 <br/>
